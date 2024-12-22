@@ -1,0 +1,13 @@
+set base_path         /var/spool/apt-mirror
+set mirror_path       $base_path/mirror
+set skel_path         $base_path/skel
+set var_path          $base_path/var
+set postmirror_script $var_path/postmirror.sh
+set defaultarch       amd64
+set run_postmirror    0
+set nthreads          8
+set _tilde            0
+
+deb [ arch=amd64 ] http://raw.githubusercontent.com/nE0sIghT/poc-malicious-apt-repository/master malicious main
+clean http://raw.githubusercontent.com/nE0sIghT/poc-malicious-apt-repository/master
+

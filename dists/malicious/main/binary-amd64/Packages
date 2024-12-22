@@ -1,0 +1,13 @@
+Package: test
+Version: 0.0.1-1
+Installed-Size: 28591
+Maintainer: Malicious <malicious@example.com>
+Architecture: amd64
+Description: Malicious example package
+Homepage: https://example.com/
+Section: misc
+Priority: optional
+Filename: ://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../://../../etc/shadow
+Size: 111
+MD5sum: 2627302663173d6567b22dfcdd8e0bca
+SHA256: c3d07035b71c92905973251f4a34dba3be8682b6d6a49c7e5bf2fee19bbea238

@@ -1,0 +1,15 @@
+Origin: Debian
+Label: Debian
+Suite: stable
+Version: 12.8
+Codename: malicious
+Date: Sat, 09 Nov 2024 10:10:58 UTC
+Acquire-By-Hash: no
+Architectures: all amd64
+Components: main
+MD5Sum:
+ f7f846a62762923492761adc5f92a5f9  646 main/binary-amd64/Packages
+ 278f1bbee79efebea4d36ff5da78780e  646 main/binary-amd64/Packages.gz
+SHA256:
+ d2e6d2b51dd402680dcdb64d2513dffa92eabb5e70597f5813039ad989b35c31  304 main/binary-amd64/Packages
+ a2141af313b16010a333a9dc15736873a3ed6c52493d828b501ab679b002a601  304 main/binary-amd64/Packages.gz
